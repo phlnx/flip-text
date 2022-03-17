@@ -1,5 +1,6 @@
 {
   "name": "phlnx/flip-text",
+  "version": "1.0.0",
   "description": "Flips text",
   "minimum-stability": "stable",
   "license": "GPL-2.0-or-later",
