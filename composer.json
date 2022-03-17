@@ -1,0 +1,20 @@
+{
+  "name": "phlnx/flip-text",
+  "description": "Flips text",
+  "minimum-stability": "stable",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "phalanx",
+      "email": "mnlg@pm.me"
+    }
+  ],
+  "require": {
+  },
+  "autoload":{
+    "psr-4": {
+      "TextFlip\\": "src"
+    }
+  }
+
+}
